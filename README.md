@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A277FF,100:FF6EC7&height=220&section=header&text=Hi%2C%20I'm%20Ica%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Math%20%26%20Data%20into%20Machine%20Learning&descAlignY=52&descSize=17" alt="header banner" />
+# Hi, I'm Ica 👋
+
+### Turning Math & Data into Machine Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A277FF&center=true&vCenter=true&width=560&lines=Computer+Science+Student+%40+ITB+AAS;Data+%26+Machine+Learning+Enthusiast;Math+Nerd+%2C+Tutor+%2C+Problem+Solver;Always+curious%2C+always+building" alt="typing svg" />
 
@@ -90,35 +92,15 @@ fun_fact: "Traumatized doing ML math by hand in Excel (sem 3)... became an ML pe
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thechocolate2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=FF6EC7&cache_seconds=1800" height="165" alt="github stats" />
-<img src="https://streak-stats.demolab.com?user=thechocolate2&theme=tokyonight&hide_border=true&background=0D1117&ring=A277FF&fire=FF6EC7&currStreakLabel=A277FF" height="165" alt="github streak" />
+<img src="https://streak-stats.demolab.com?user=thechocolate2&theme=tokyonight&hide_border=true&background=0D1117&ring=A277FF&fire=FF6EC7&currStreakLabel=A277FF" alt="github streak stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechocolate2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&cache_seconds=1800" height="165" alt="top languages" />
+
+![Followers](https://img.shields.io/github/followers/thechocolate2?label=Followers&style=for-the-badge&color=A277FF&logo=github)
+![Stars](https://img.shields.io/github/stars/thechocolate2?label=Stars&style=for-the-badge&color=FF6EC7&logo=github)
+
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thechocolate2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A277FF&line=FF6EC7&point=ffffff" width="90%" alt="activity graph" />
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thechocolate2&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8" alt="trophies" />
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/thechocolate2/thechocolate2/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
-> Widget snake ini butuh setup GitHub Action sekali di repo kamu — tanya aku kalau mau dibantu bikinkan workflow-nya, biar animasi ular ini jalan otomatis tiap hari.
 
 <br>
 
@@ -136,5 +118,3 @@ fun_fact: "Traumatized doing ML math by hand in Excel (sem 3)... became an ML pe
 <div align="center">
 <img src="https://img.shields.io/badge/Made%20with-%E2%98%95%20%2B%20%F0%9F%A7%A0-6C63FF?style=for-the-badge" alt="made with" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:A277FF,100:6C63FF&height=150&section=footer" alt="footer banner" />
