@@ -17,7 +17,6 @@ name: Ica Wahyu Mulya Pradana
 role: Computer Science Student @ ITB AAS Indonesia (Angkatan 2024)
 focus: [Data Analysis, Machine Learning, Applied Mathematics]
 currently_learning: Machine Learning (deep dive mode 🔍)
-career_goal: Remote Data / AI role
 passion: "Genuinely into anything ruled by math, logic, and data"
 ```
 
