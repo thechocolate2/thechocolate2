@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ica 👋
+# Hi, I'm Ica 
 
 ### Turning Math & Data into Machine Learning
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## ⚡ About Me
+## About Me
 
 ```yaml
 name: Ica Wahyu Mulya Pradana
@@ -22,7 +22,7 @@ passion: "Genuinely into anything ruled by math, logic, and data"
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,html,css,php,mysql,tensorflow,sklearn,jupyter&theme=dark" alt="tech stack icons" />
@@ -30,7 +30,7 @@ passion: "Genuinely into anything ruled by math, logic, and data"
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=thechocolate2&theme=tokyonight&hide_border=true&background=0D1117&ring=A277FF&fire=FF6EC7&currStreakLabel=A277FF" alt="github streak stats" />
@@ -45,7 +45,7 @@ passion: "Genuinely into anything ruled by math, logic, and data"
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
